@@ -3,6 +3,24 @@
 Asyncio tasks are high level, light, non-blocking units of execution known tasks. They are essentially what asyncio uses to run tasks in the background concurrently. This allows main thread to do something while the task is in the background working. Here is an example:
 
 ```python
+import asycnio
+import time
+
+async def say_after(delay, msg):
+	await asyncio.sleep(delay)
+	print(msg)
+
+async def main():
+	print(f"Started at {time.strftime('%X')}")
+	await say_after(1, "Task 1 Finished")
+	await say_after(2, "Task 2 Finished")
+	print(f"Finished at {time.strftime('%X')}")
+
+```
+
+The program above takes a total of 3 seconds to complete due to the fact each coroutine is ran synchronously.
+
+```python
 import asyncio
 import time
 

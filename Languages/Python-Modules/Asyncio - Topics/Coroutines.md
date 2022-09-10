@@ -23,8 +23,8 @@ main()
 ```
 
 To actually run coroutines, asyncio provides three main ways to run them:
-- asyncio.run() - This is essentially the top-level entrypoint, what the main() function which holds all your code should be ran under. It's the only way to execute a coroutine in a non-async environment.
-- awaiting a coroutine - This is how one is able to run coroutines within async functions, one is able to await them. Here is an example:
+- [[Asyncio.Run]] - This is essentially the top-level entrypoint, what the main() function which holds all your code should be ran under. It's the only way to execute a coroutine in a non-async environment.
+- [awaiting](Awaitables) a coroutine - This is how one is able to run coroutines within async functions, one is able to await them. Here is an example:
 
 ```python
 import asyncio
