@@ -4,13 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "bf272ef8c91eb8eb",
+        "id": "ca31284317eb5706",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Languages/Python-Modules/Asyncio - Topics/Awaitables.md",
-            "mode": "source",
+            "file": "Languages/Python-Modules/Asyncio - Topics/Asyncio.Run.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "969af8b543355ee3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Languages/Python-Modules/Asyncio - Topics/Asyncio.Gather.md",
+            "mode": "preview",
+            "backlinks": true,
             "source": false
           }
         }
@@ -77,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Python-Modules/Asyncio - Topics/Awaitables.md",
+                "file": "Languages/Python-Modules/Asyncio - Topics/Asyncio.Gather.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Python-Modules/Asyncio - Topics/Awaitables.md",
+                "file": "Languages/Python-Modules/Asyncio - Topics/Asyncio.Gather.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Python-Modules/Asyncio - Topics/Awaitables.md"
+                "file": "Languages/Python-Modules/Asyncio - Topics/Asyncio.Gather.md"
               }
             }
           },
@@ -133,19 +147,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 259.5,
     "collapsed": true
   },
-  "active": "bf272ef8c91eb8eb",
+  "active": "969af8b543355ee3",
   "lastOpenFiles": [
+    "Languages/Python-Modules/Asyncio - Topics/Asyncio.Run.md",
+    "Languages/Python-Modules/Asyncio - Topics/Asyncio.Gather.md",
     "Languages/Python-Modules/Asyncio - Topics/Coroutines.md",
     "Languages/Python-Modules/Asyncio - Topics/Awaitables.md",
-    "Languages/Python-Modules/Asyncio - Topics/Asyncio.Run.md",
+    "Languages/Python-Modules/Asyncio - Concurrent python.md",
     "Languages/Python-Modules/Asyncio - Topics/Asyncio Tasks.md",
     "Languages/Python-Modules/Asyncio - Topics/Creating Multiple Tasks.md",
     "2022-09-10.md",
-    "Languages/Python-Modules/Asyncio - Topics/Asyncio.Gather.md",
-    "Languages/Asyncio - Concurrent python.md",
     "Languages/Python-Modules/Asyncio - Topics/Untitled.md",
     "Languages/Python-Modules/Asyncio - Topics/Useful Links & Resources.md"
   ]
