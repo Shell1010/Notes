@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "277f92d3b90099af",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf272ef8c91eb8eb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Languages/Python-Modules/Asyncio - Topics/Awaitables.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c4c16cd81bde0ed9",
+        "type": "leaf",
+        "state": {
+          "type": "reveal-preview-view",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cac4c60b08bf897",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a930a75b2239c4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c68423e11e04913",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba59f81adebef062",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a7013d080fe3ae4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da8f38c936c79121",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bb2b60ecd8cc741",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7426c128025eee27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Languages/Python-Modules/Asyncio - Topics/Awaitables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "747b6962e5722173",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Languages/Python-Modules/Asyncio - Topics/Awaitables.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8306a6265c3fbc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b6fdbd9091e2f3c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Languages/Python-Modules/Asyncio - Topics/Awaitables.md"
+              }
+            }
+          },
+          {
+            "id": "1f07fe1042508af8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bf272ef8c91eb8eb",
+  "lastOpenFiles": [
+    "Languages/Python-Modules/Asyncio - Topics/Asyncio.Gather.md",
+    "Languages/Rust-Modules/Tokio - An Async Runtime.md",
+    "Languages/Rust-Modules/Tokio - Topics/Working with multiple concurrent futures.md",
+    "Languages/Rust-Modules/Tokio - Topics/Working with Tasks.md",
+    "Languages/Python-Modules/Asyncio - Topics/Useful Links & Resources.md",
+    "Languages/Python-Modules/Asyncio - Concurrent python.md",
+    "Languages/Python-Modules/Asyncio - Topics/Asyncio Tasks.md",
+    "Languages/Python-Modules/Asyncio - Topics/Awaitables.md",
+    "Languages/Python-Modules/Asyncio - Topics/Creating Multiple Tasks.md",
+    "Languages/Python-Modules/Asyncio - Topics/Coroutines.md"
+  ]
+}
