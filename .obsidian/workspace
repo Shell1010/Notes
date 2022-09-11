@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Languages/Python-Modules/Asyncio - Topics/Asyncio Tasks.md",
+            "file": "Languages/Python-Modules/Python Basics/Data Types - Types/Arrays.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Languages/Python-Modules/Asyncio - Topics/Creating Multiple Tasks.md",
+            "file": "Languages/Python-Modules/Python Basics/Data Types.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Python-Modules/Asyncio - Topics/Asyncio Tasks.md",
+                "file": "Languages/Python-Modules/Python Basics/Data Types - Types/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Python-Modules/Asyncio - Topics/Asyncio Tasks.md",
+                "file": "Languages/Python-Modules/Python Basics/Data Types - Types/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Python-Modules/Asyncio - Topics/Asyncio Tasks.md"
+                "file": "Languages/Python-Modules/Python Basics/Data Types - Types/Arrays.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "ca31284317eb5706",
   "lastOpenFiles": [
-    "Languages/Python-Modules/Asyncio - Topics/Asyncio.Gather.md",
-    "Languages/Python-Modules/Asyncio - Topics/Awaitables.md",
-    "Languages/Python-Modules/Asyncio - Topics/Coroutines.md",
-    "Languages/Python-Modules/Asyncio - Topics/Asyncio Tasks.md",
-    "Languages/Python-Modules/Asyncio - Topics/Asyncio.Run.md",
+    "Languages/Python-Modules/Python Basics/Data Types.md",
+    "Languages/Python-Modules/Python Basics/Data Types - Types/Arrays.md",
+    "Languages/Python-Modules/Python Basics/Data Types - Types/Boolean.md",
+    "Languages/Python-Modules/Python Basics/Data Types - Types/Floats.md",
+    "Languages/Python-Modules/Python Basics/Data Types - Types/Integers.md",
+    "Languages/Python-Modules/Python Basics/Data Types - Types/Strings.md",
+    "Languages/Python-Modules/Python - Basics.md",
     "Languages/Python-Modules/Asyncio - Topics/Creating Multiple Tasks.md",
-    "Languages/Python-Modules/Asyncio - Concurrent python.md",
     "Languages/Python.md",
-    "2022-09-10.md",
-    "Languages/Python-Modules/Asyncio - Topics/Untitled.md"
+    "Languages/Python-Modules/Asyncio - Topics/Asyncio Tasks.md"
   ]
 }

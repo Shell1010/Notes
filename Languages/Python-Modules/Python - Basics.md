@@ -1,0 +1,4 @@
+# Python - Basics
+
+## [[Data Types]]
+

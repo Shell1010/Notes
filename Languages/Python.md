@@ -4,4 +4,6 @@ Python is described a general purpose programming language, often used to build 
 
 ## Topic List
 
+### [[Python - Basics]]
+
 ### [[Asyncio - Concurrent python]]
