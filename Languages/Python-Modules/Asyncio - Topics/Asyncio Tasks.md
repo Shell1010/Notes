@@ -18,7 +18,7 @@ async def main():
 
 ```
 
-The program above takes a total of 3 seconds to complete due to the fact each coroutine is ran synchronously.
+The program above takes a total of 3 seconds to complete due to the fact each [coroutine](Coroutines) is ran synchronously.
 
 ```python
 import asyncio
@@ -37,5 +37,5 @@ async def main():
 	print(f"Finished at {time.strftime('%X')}")
 ```
 
-The following code will finish itself after 2 seconds, rather than waiting 3 seconds due to the fact each task is executed in the background.
+The following code will finish itself after 2 seconds, rather than waiting 3 seconds due to the fact each task is executed in the background. So after executing task 1, it will not wait 1 second since this is running in the background, to which it will immediately travel to task 2.
 
