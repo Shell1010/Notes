@@ -7,7 +7,7 @@ var = True
 var = False
 ```
 
-These two variables are deemed to be a boolean. Generally comparison operators used within if statements return booleans, this determines whether a certain condition is ran. Therefore, booleans are generally one of the most important data types.
+These two variables are deemed to be a boolean. Generally [[Comparison operators]] used within if statements return booleans, this determines whether a certain condition is ran. Therefore, booleans are generally one of the most important data types.
 
 ```python
 var = 15

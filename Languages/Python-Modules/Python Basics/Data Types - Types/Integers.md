@@ -21,17 +21,9 @@ print(result) # This will print 10
 
 Here is the complete list of arithmetic operators within Python.
 
-| Operator | Name           | Description           | Example | Result |
-| -------- | -------------- | --------------------- | ------- | ------ |
-| +        | Add            | Adds numbers          | 2 + 3   | 5      |
-| -        | Subtract       | Subtracts numbers     | 5 - 2   | 3      |
-| *        | Multiply       | Multiplies numbers    | 5 * 2   | 10     |
-| /        | Divide         | Divides numbers       | 6 / 2   | 3      |
-| **       | Exponentiation | Exponentiates numbers | 5 ** 2  | 25     |
-| //       | Floor Division | Floor Divides numbers | 15 // 4 | 3      |
-| %        | Modulos        | Modulos numbers       | 12 % 5  | 2      |         |                |                       |         |        |
+### [[Arithmetic Operators]]
 
-With integers you can also use comparison operators to determine whether a condition is true/false. For example.
+With integers you can also use [[Comparison operators]] to determine whether a condition is true/false. For example.
 
 ```python
 var = 12
@@ -44,12 +36,4 @@ else:
 
 Here is the complete list of comparison operators within Python.
 
-| Operator | Name                     | Example | Result |
-| -------- | ------------------------ | ------- | ------ |
-| ==       | Equal to                 | 5 == 5  | True   |
-| !=       | Not equal to             | 5 != 5  | False  |
-| >        | Greater than             | 5 > 3   | True   |
-| >=       | Greater than or equal to | 5 >= 6  | False  |
-| <        | Less than                | 5 < 6   | True   |
-| <=       | Less than or equal to    | 6 <= 6  | True   |
-|          |                          |         |        |
+### [[Comparison Operators]]

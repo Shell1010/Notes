@@ -13,3 +13,13 @@ Here are a few:
 ## [[Floats]]
 
 ## [[Arrays]]
+
+## [[Dictionaries]]
+
+To check what a certain variables data type is you can use the `type()` function.
+
+```python
+var = 12
+print(type(var)) # This will print <class 'int'> - the integer type. We'll go over classes later on
+```
+

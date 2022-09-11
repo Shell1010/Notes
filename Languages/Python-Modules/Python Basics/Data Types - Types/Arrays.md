@@ -41,3 +41,19 @@ print(val) # This will print 1
 print(list) # This will print [2,3,4,5]
 ```
 
+In order to check the length of a list you can use the `len()` function to accomplish this.
+
+```python
+list = [0,2,4,5,6,7]
+print(len(list)) # This will print 6
+```
+
+In order to add two lists together, you can use the `append()` method to accomplish this.
+
+```python
+list = [0,2,4,5,6,7]
+other_list = ["ok", "test"]
+list.append(other_list)
+print(list) # This will print [0,2,4,5,6,7,"ok","test"]
+```
+
