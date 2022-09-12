@@ -40,10 +40,11 @@ Similar to [[For loops]] you can have continue statements. This allows you to sk
 ```python
 var = 12
 while var < 18:
-	print(var)
-	var += 1
 	if var == 15:
 		continue
+	print(var)
+	var += 1
+	
 		
 print("Finished loop")
 ```

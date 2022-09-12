@@ -41,7 +41,7 @@ print(val) # This will print 1
 print(list) # This will print [2,3,4,5]
 ```
 
-In order to check the length of a list you can use the `len()` function to accomplish this.
+In order to check the length of a list you can use the `len()` [function](Functions) to accomplish this.
 
 ```python
 list = [0,2,4,5,6,7]

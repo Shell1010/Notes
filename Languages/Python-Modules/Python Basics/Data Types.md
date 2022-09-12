@@ -16,7 +16,7 @@ Here are a few:
 
 ## [[Dictionaries]]
 
-To check what a certain variables data type is you can use the `type()` function.
+To check what a certain variables data type is you can use the `type()` [function](Functions).
 
 ```python
 var = 12

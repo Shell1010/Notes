@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8af61755d810fcf3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Languages/Python-Modules/Python Basics/Control Flow.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "182b220bebe55215",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Languages/Python-Modules/Python Basics/Control Flow - Types/While loops.md",
+            "file": "Languages/Python-Modules/Python Basics/Classes.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Python-Modules/Python Basics/Control Flow - Types/While loops.md",
+                "file": "Languages/Python-Modules/Python Basics/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Python-Modules/Python Basics/Control Flow - Types/While loops.md",
+                "file": "Languages/Python-Modules/Python Basics/Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Python-Modules/Python Basics/Control Flow - Types/While loops.md"
+                "file": "Languages/Python-Modules/Python Basics/Classes.md"
               }
             }
           },
@@ -152,15 +139,15 @@
   },
   "active": "182b220bebe55215",
   "lastOpenFiles": [
-    "Languages/Python-Modules/Python Basics/Control Flow.md",
-    "Languages/Python-Modules/Python Basics/Control Flow - Types/While loops.md",
-    "Languages/Python-Modules/Python Basics/Data Types - Types/Floats.md",
-    "Languages/Python-Modules/Python Basics/Data Types - Types/Boolean.md",
-    "Languages/Python-Modules/Python Basics/Data Types - Types/Integers.md",
     "Languages/Python-Modules/Python Basics/Data Types - Types/Arithmetic Operators.md",
-    "Languages/Python-Modules/Python Basics/Data Types - Types/Comparison Operators.md",
-    "Languages/Python-Modules/Python Basics/Data Types - Types/Arrays.md",
-    "Languages/Python-Modules/Python Basics/Control Flow - Types/For loops.md",
-    "Languages/Python-Modules/Python Basics/Control Flow - Types/If - elif - else.md"
+    "Languages/Python-Modules/Python Basics/Data Types - Types/Integers.md",
+    "Languages/Python-Modules/Python Basics/Data Types.md",
+    "Languages/Python-Modules/Python Basics/Functions.md",
+    "Languages/Python-Modules/Python Basics/Classes.md",
+    "Languages/Python-Modules/Python - Basics.md",
+    "Languages/Python-Modules/Python Basics/Data Types - Types/Strings.md",
+    "Languages/Python-Modules/Python Basics/Data Types - Types/Floats.md",
+    "Languages/Python-Modules/Python Basics/Data Types - Types/Dictionaries.md",
+    "Languages/Python-Modules/Python Basics/Data Types - Types/Arrays.md"
   ]
 }

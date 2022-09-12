@@ -58,7 +58,7 @@ if "Shell" in var:
 	print("ITS HERE")
 ```
 
-To check the length of a string use the `len()` function.
+To check the length of a string use the `len()` [function](Functions).
 
 ```python
 var = "Shell"

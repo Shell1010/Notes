@@ -28,7 +28,7 @@ var["location"] = "Germany"
 print(var) # This will now print { "name": "John", "age": 12, "location": "Germany"}
 ```
 
-To check how many items are in a dictionary, you can use the `len()` function.
+To check how many items are in a dictionary, you can use the `len()` [function](Functions).
 
 ```python
 var = { "name": "John", "age": 12, "location": "England"}
