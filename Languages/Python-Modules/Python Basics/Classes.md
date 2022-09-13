@@ -60,3 +60,7 @@ You can delete entire objects with the `del` keyword
 ```python
 del p1
 ```
+
+I've stated only one dunder method in this brief explanation of classes which is `__init()__` however there are quite a few dunder methods for classes. Dunder refers to double underscore btw.
+
+## [[Dunder Methods]]
