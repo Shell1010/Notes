@@ -10,19 +10,19 @@
           "type": "markdown",
           "state": {
             "file": "Languages/Python-Modules/Python Basics/Classes - Dunder Methods/Dunder Methods.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
         }
       },
       {
-        "id": "5f8c45fdf4fd70f7",
+        "id": "1d2183fcd3ebffca",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Languages/Python-Modules/Python Basics/Classes - Dunder Methods/__enter__ and __exit__.md",
+            "file": "Languages/Python-Modules/Python Basics/Classes - Dunder Methods/Iterators.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Python-Modules/Python Basics/Classes - Dunder Methods/Dunder Methods.md",
+                "file": "Languages/Python-Modules/Python Basics/Classes - Dunder Methods/Iterators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Python-Modules/Python Basics/Classes - Dunder Methods/Dunder Methods.md",
+                "file": "Languages/Python-Modules/Python Basics/Classes - Dunder Methods/Iterators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Python-Modules/Python Basics/Classes - Dunder Methods/Dunder Methods.md"
+                "file": "Languages/Python-Modules/Python Basics/Classes - Dunder Methods/Iterators.md"
               }
             }
           },
@@ -150,17 +150,17 @@
     "width": 259.5,
     "collapsed": true
   },
-  "active": "182b220bebe55215",
+  "active": "1d2183fcd3ebffca",
   "lastOpenFiles": [
-    "Languages/Python-Modules/Python Basics/Classes - Dunder Methods/__len__.md",
     "Languages/Python-Modules/Python Basics/Classes - Dunder Methods/Dunder Methods.md",
-    "Languages/Python-Modules/Python Basics/Classes - Dunder Methods/__enter__ and __exit__.md",
+    "Languages/Python-Modules/Python Basics/Classes - Dunder Methods/Iterators.md",
+    "Languages/Python-Modules/Python Basics/Classes - Dunder Methods/__len__.md",
     "Languages/Python-Modules/Python Basics/Classes - Dunder Methods/__str__.md",
+    "Languages/Python-Modules/Python Basics/Classes - Dunder Methods/Context Managers.md",
+    "Languages/Python-Modules/Python Basics/Control Flow - Types/For loops.md",
+    "Languages/Python-Modules/Python Basics/Control Flow.md",
     "Languages/Python-Modules/Python Basics/Classes.md",
     "Languages/Python-Modules/Python - Basics.md",
-    "Languages/Python.md",
-    "Languages/Python-Modules/Python Basics/Data Types - Types/Arithmetic Operators.md",
-    "Languages/Python-Modules/Python Basics/Data Types - Types/Integers.md",
-    "Languages/Python-Modules/Python Basics/Data Types.md"
+    "Languages/Python.md"
   ]
 }

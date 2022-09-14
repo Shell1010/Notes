@@ -15,3 +15,4 @@ p = Cars("Audi", "BMW", "Penis")
 print(len(p))
 ```
 
+In this case, our len dunder method is returning the amount of cars.
