@@ -7,4 +7,4 @@ Setup is simply git cloning this repository and opening it with Obsidian.
 
 
 ## Help & Support
-- My [discord server](https://discord.gg/fuf8t4JWDV)
+- My [discord server](https://discord.gg/qCJwVERPRV)
